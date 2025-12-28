@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Flowdi Support
-permalink: /flowdi-support/support/ko/
+title: Flowdi 지원
+permalink: /flowdi-page/support/ko/
 ---
+
+[홈](/flowdi-page/ko/) > **Flowdi 지원**
+---
+
+# Flowdi 지원
 
 **Flowdi**를 이용해 주셔서 감사합니다!
 

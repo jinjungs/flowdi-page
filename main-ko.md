@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi 공식 페이지
-permalink: /flowdi-support/ko/
+permalink: /flowdi-page/ko/
 ---
 
 # Flowdi에 오신 것을 환영합니다

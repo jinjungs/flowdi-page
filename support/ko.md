@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi 지원
-permalink: /flowdi-page/support/ko/
+permalink: /support/ko/
 ---
 
 [홈](/flowdi-page/ko/) > **Flowdi 지원**

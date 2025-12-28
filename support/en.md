@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi Support
-permalink: /flowdi-page/support/
+permalink: /support/
 ---
 
 [Home](/flowdi-page/) > **Flowdi Support**

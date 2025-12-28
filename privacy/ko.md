@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi 개인정보 처리방침
-permalink: /flowdi-page/privacy/ko/
+permalink: /privacy/ko/
 ---
 
 [홈](/flowdi-page/ko/) > **Flowdi 개인정보 처리방침**

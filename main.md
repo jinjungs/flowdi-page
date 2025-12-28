@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi Official Page
-permalink: /
+permalink: /flowdi-support/
 ---
 
 # Welcome to Flowdi

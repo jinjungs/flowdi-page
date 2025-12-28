@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi Support
-permalink: /support/ko/
+permalink: /flowdi-support/support/ko/
 ---
 
 **Flowdi**를 이용해 주셔서 감사합니다!

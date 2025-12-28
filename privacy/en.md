@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flowdi Privacy Policy
-permalink: /privacy/
+permalink: /flowdi-support/privacy/
 ---
 
 # Flowdi Privacy Policy

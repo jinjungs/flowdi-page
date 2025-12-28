@@ -1,4 +1,10 @@
-# flowdi-support
+---
+layout: default
+title: Flowdi Support
+permalink: /support/
+---
+
+# Flowdi Support
 
 Thank you for using **Flowdi**!
 
@@ -21,8 +27,4 @@ Flowdi respects your privacy.
 
 Your data is handled securely and is never shared without your consent.
 
-[Flowdi Privacy Policy](https://www.notion.so/Flowdi-Privacy-Policy-2ce77682449e809f9b20fbe94809a919?pvs=21)
-
----
-
-© 2025 Flowdi. All rights reserved.
+[Flowdi Privacy Policy](/privacy/)

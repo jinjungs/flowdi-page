@@ -4,7 +4,6 @@ Thank you for using **Flowdi**!
 
 If you have any questions, feedback, or issues, please feel free to contact us.
 
----
 
 ## **About Flowdi**
 

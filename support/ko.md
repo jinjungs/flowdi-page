@@ -28,4 +28,4 @@ Flowdi는 사용자의 개인정보를 소중하게 생각합니다.
 
 사용자 데이터는 안전하게 처리되며, 사용자의 동의 없이 제3자와 공유되지 않습니다.
 
-[Flowdi 개인정보 처리방침](/privacy/ko/)
+[Flowdi 개인정보 처리방침](/flowdi-page/privacy/ko/)

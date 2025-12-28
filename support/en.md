@@ -27,4 +27,4 @@ Flowdi respects your privacy.
 
 Your data is handled securely and is never shared without your consent.
 
-[Flowdi Privacy Policy](/privacy/)
+[Flowdi Privacy Policy](/flowdi-page/privacy/)
